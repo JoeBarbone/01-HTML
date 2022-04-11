@@ -19,12 +19,9 @@ Work with a partner to implement the following user story:
 
 The following image demonstrates the web application's appearance and functionality:
 
-[Webpage titled "Student Bio" features "Your Name" heading, a spot for an image and bio, and a "Contact Info" section.](https://joebarbone.github.io/01-HTML/)
+![Webpage titled "Student Bio" features "Your Name" heading, a spot for an image and bio, and a "Contact Info" section.](assets/images/screenshot.jpg)
 
-[Google](http://google.com)
-
-You can use this [placeholder image](https://via.placeholder.com/200).
-
+See live site [Student Bio - Joseph Barbone](https://joebarbone.github.io/01-HTML/)
 ---
 
 ## 💡 Hints
