@@ -22,6 +22,7 @@ The following image demonstrates the web application's appearance and functional
 ![Webpage titled "Student Bio" features "Your Name" heading, a spot for an image and bio, and a "Contact Info" section.](assets/images/screenshot.jpg)
 
 See live site [Student Bio - Joseph Barbone](https://joebarbone.github.io/01-HTML/)
+
 ---
 
 ## 💡 Hints
