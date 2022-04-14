@@ -37,7 +37,8 @@ If you have completed this activity, work through the following challenge with y
 
 Use [Google](https://www.google.com) or another search engine to research this.
 
-2022-04-13 Changed file structure to include activities/modules
+2022-04-13 Changed file structure to include activities/modules  
+Folder restructure was successful
 
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
